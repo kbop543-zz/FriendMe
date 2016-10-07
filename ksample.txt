@@ -1,0 +1,34 @@
+add_user Kyra
+add_user ok
+add_user Ben
+add_user Sam
+add_user yak
+add_user m
+add_user k
+add_user z
+add_user f
+add_user g
+add_user h
+add_user w
+list_users
+make_friends Kyra Sam
+make_friends Kyra ok
+make_friends Kyra Ben
+make_friends Kyra yak
+make_friends Kyra m
+make_friends Kyra k
+make_friends Kyra z
+make_friends Kyra f
+make_friends Kyra g
+make_friends Kyra h
+make_friends Kyra w
+profile Kyra
+profile Ren
+delete_user Ren
+profile Kyra
+
+
+
+
+
+
