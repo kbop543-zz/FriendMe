@@ -39,7 +39,7 @@ You can also run FriendMe by typing ./friendme <textfile> e.g ./friendme sample.
  see sample_output.txt for an exmaple!
 
 
-
+--
  # Requirements
  
  -User has to be added in order to display profile, make friend, etc
